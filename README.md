@@ -1,7 +1,7 @@
 Weather App
 
 Front-end: HTML, CSS, JS
-Back-end: Express.js
+Back-end: Node.js with Express
 
 API KEY =  not included.
 Code works fine
